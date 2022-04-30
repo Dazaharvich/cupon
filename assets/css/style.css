@@ -1,0 +1,49 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand-custom{
+width: 7rem;
+}
+
+.navbar-color{
+
+    background-color: #28A745;
+}
+.logo-size{
+    width: 86px;
+    height: 25px;
+}
+
+.form-color{
+    background-color: #28A745;
+}
+
+.card-title-font{
+    color: #212529;
+    font-weight: 300;
+}
+
+.card-text-font{
+    color: #707070;
+    font-weight: 300;
+}
+
+.first-price{
+    color:#707070;
+    font-weight: 300;
+}
+
+.second-price{
+    color: #28A745;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.logo-footer{
+    width: 82px;
+    height: 24px;
+}
+.text-footer{
+    color: #707070;
+    font-weight: 300;
+}
